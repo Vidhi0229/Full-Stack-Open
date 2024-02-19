@@ -10,7 +10,7 @@
 ![screenshot](./asset/spa.jpg)
 
 
-## Exercise 0.5
+## Exercise 0.6
 
 ![screenshot](./asset/new%20note_added.jpg)
 
